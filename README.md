@@ -1,0 +1,5 @@
+# NLP Projects Overview
+
+This repository contains a complete collection of Natural Language Processing (NLP) notebooks covering the entire workflow from text preprocessing to advanced deep learning based sentiment analysis. The notebooks collectively demonstrate essential techniques such as cleaning and normalizing raw text, handling emojis, generating word clouds, and applying feature extraction methods like Bag-of-Words, TF-IDF, and Word2Vec. They also include practical implementations of machine learning and deep learning models—including Logistic Regression, Naive Bayes, SVM, RNN, LSTM, and GRU (for tasks like text classification), emotion detection, and sentiment analysis.  
+
+Together, these notebooks provide a hands-on and intuitive understanding of NLP fundamentals, text vectorization, model building, and performance evaluation. This collection is suitable for beginners exploring NLP concepts, students working on academic projects, and developers aiming to build text-based machine learning applications using Python, Scikit-learn, TensorFlow/Keras, NLTK, spaCy, and Gensim.
